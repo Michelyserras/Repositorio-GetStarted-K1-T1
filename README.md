@@ -18,7 +18,7 @@ O GitHub é um site onde a gente pode armazenar os repositórios que criamos com
 
 #### Comandos Git mais utilizados
 
-Esses são os comandos básicos do git que vão ser muito utilizados no dia a dia, cada um possui sua função específica e realiza um papel importante no controle de versão do seu projeto, então listei os mais interessantes de conhecer no primeiro contato com o git.
+Esses são os comandos vão ser muito utilizados no dia a dia, cada um possui sua função específica e realiza um papel importante no controle de versão do seu projeto, então listei os mais interessantes para conhecer no primeiro contato com o git.
 
 | Comando | Pra que serve |
 |--------|----------------|
