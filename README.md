@@ -9,7 +9,7 @@ Versionamento é uma forma de controlar as alterações que fazemos em arquivos 
 #### Ferramentas de Versionamento
 
 ##### - Git:
-Aprendi que o Git é uma ferramenta que ajuda a fazer esse controle de versão. Ele funciona direto no nosso computador e salva os registros de cada modificação. Com ele, conseguimos trabalhar em equipe sem bagunça, porque cada pessoa pode editar o código sem atrapalhar a outra.
+o Git é uma ferramenta que ajuda a fazer esse controle de versão. Ele funciona direto no nosso computador e salva os registros de cada modificação. Com ele, conseguimos trabalhar em equipe sem bagunça, porque cada pessoa pode editar o código sem atrapalhar a outra.
 
 ##### - GitHub:
 O GitHub é um site onde a gente pode armazenar os repositórios que criamos com o Git. Além disso, ele facilita o trabalho em grupo, porque dá pra compartilhar o projeto com outras pessoas, revisar código, reportar problemas e muito mais. Ele é muito usado por empresas e desenvolvedores no mundo todo.
